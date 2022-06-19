@@ -1,0 +1,37 @@
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #09263A;
+    text-align: center;
+}
+
+.navbar-items img{
+    margin: 0 auto;
+    padding-left: 100px;
+    float: left;
+    height: 105px;
+    width: 240px;
+}
+
+.navbar-items li {
+    float: right;
+    padding-top: 50px;
+}
+
+.navbar-items li a {
+    display: block;
+    color: white;
+    padding: 16px 14px;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+    font-size: 20px;
+}
+
+.navbar-items li a:hover {
+    text-decoration: underline; 
+    text-decoration-color:#19A538;
+    color: #19A538;
+}
+

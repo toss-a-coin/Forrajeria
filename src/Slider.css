@@ -1,0 +1,10 @@
+.slider{
+    display: flex;
+    padding-top: 30px;
+    justify-content: center;
+}
+
+.sliderImg{
+    width: 40%;
+    height: 400px;
+}
