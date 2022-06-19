@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Forrajeria/static/css/main.38867c2a.css",
-    "main.js": "/Forrajeria/static/js/main.b2d8919c.js",
+    "main.js": "/Forrajeria/static/js/main.4bd869f5.js",
     "static/js/787.3d72bb5f.chunk.js": "/Forrajeria/static/js/787.3d72bb5f.chunk.js",
     "static/media/bovino1.png": "/Forrajeria/static/media/bovino1.3476c76c15acf85a2dbc.png",
     "static/media/producto1.jpg": "/Forrajeria/static/media/producto1.ce5012f74632f1d1477e.jpg",
@@ -14,11 +14,11 @@
     "static/media/logo.svg": "/Forrajeria/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Forrajeria/index.html",
     "main.38867c2a.css.map": "/Forrajeria/static/css/main.38867c2a.css.map",
-    "main.b2d8919c.js.map": "/Forrajeria/static/js/main.b2d8919c.js.map",
+    "main.4bd869f5.js.map": "/Forrajeria/static/js/main.4bd869f5.js.map",
     "787.3d72bb5f.chunk.js.map": "/Forrajeria/static/js/787.3d72bb5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38867c2a.css",
-    "static/js/main.b2d8919c.js"
+    "static/js/main.4bd869f5.js"
   ]
 }
