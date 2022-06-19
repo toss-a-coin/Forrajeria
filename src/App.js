@@ -3,7 +3,7 @@ import './App.css';
 import Slider from './components/Slider';
 import Products from './components/Products';
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Route,
   Routes,
   Link
